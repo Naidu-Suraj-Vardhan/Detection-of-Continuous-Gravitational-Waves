@@ -4,6 +4,7 @@ This notebook is implemented in Kaggle's G2NET Hackathon, where the objective of
 
 G2Net is a network of Gravitational Wave, Geophysics and Machine Learning. Via an Action from COST (European Cooperation in Science and Technology), a funding agency for research and innovation networks, G2Net aims to create a broad network of scientists. From four different areas of expertise, namely GW physics, Geophysics, Computing Science and Robotics, these scientists have agreed on a common goal of tackling challenges in data analysis and noise characterization for GW detectors.
 
+The ```EfficientNet``` model developed in this notebook achieved an accuray of 0.674 against the 76% of test data. 
 
 ## About the Data
 
